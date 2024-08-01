@@ -1,0 +1,9 @@
+
+# 安装
+```bash
+pnpm install unplugin-auto-import -D
+pnpm install unplugin-vue-components -D 
+pnpm install element-plus
+```
+
+[文档教程](https://juejin.cn/post/7130123453947969573)
