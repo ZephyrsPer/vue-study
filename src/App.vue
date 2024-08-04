@@ -1,5 +1,9 @@
 <template>
-  <div>代码样式</div>
+  <RouterLink to="/">Go to Home</RouterLink>
+  <RouterLink to="/about">Go to About</RouterLink>
+  <main>
+    <RouterView />
+  </main>
 </template>
 
 <script setup></script>

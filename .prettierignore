@@ -1,0 +1,10 @@
+
+
+package.json
+pnpm-lock.yaml
+
+.prettierignore
+.prettierrc
+
+.idea/*
+.vscode/*
