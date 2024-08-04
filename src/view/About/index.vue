@@ -1,7 +1,7 @@
 <template>
   <div class="Container">
     关于
-    <div class="inner"></div>
+    <div class="inner">222</div>
   </div>
 </template>
 
@@ -16,6 +16,7 @@
 
   .inner {
     background-color: aqua;
+    // background-color: antiquewhite;
   }
 }
 </style>

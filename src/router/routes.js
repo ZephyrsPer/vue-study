@@ -7,6 +7,11 @@ const routes = [
     path: "/about",
     component: () => import("../view/About/index.vue"),
   },
+  {
+    path: "/:pathMatch(.*)*",
+    name: "NotFound",
+    component: () => import("../view/NotFound/index.vue"),
+  },
 ];
 
 export default routes;
